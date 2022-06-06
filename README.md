@@ -22,7 +22,7 @@ learning tasks.
 
 - After clonning the project locally in the computer, go to the terminal install each of the packages as they are shown
 in the file.
-- Open the jupyter notebook downloaded named as ```articles_in_africa``` and run each cell by folloeing the navigation 
+- Open the jupyter notebook downloaded named as ```articles_in_africa``` and run each cell by following the navigation 
 bar commands present on the file or simply use the shortcut ```shift + Enter key```.
 - Finally tha map will be shown at the end of the file if run correctly.
 
